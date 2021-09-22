@@ -84,3 +84,6 @@ public class HomeW23 {
     }
 
 }
+    /*@AfterTest
+    public void closeDriver(){
+        driver.quit();*/
